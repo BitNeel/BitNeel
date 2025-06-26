@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aditya Poddar
+- I am a seasoned FSD with experience in .net core and javascript frameworks
 - 👀 I’m interested in building progressive web applications and Web API
-- 🌱 I’m currently learning microservices application design
+- 🌱 I’m currently learning to build AI Agents and deploying Agents to scale
 - 📫 How to reach me gmail:- poddaraditya175@gmail.com
 
 <!---
