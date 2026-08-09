@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:239120&height=200&section=header&text=Aditya%20Poddar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20Cloud-Native%20%26%20AI-Powered%20Apps&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/aditya-poddar-sdm"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:poddaraditya175@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Based%20in-Tustin,%20CA-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Based%20in-CA,%20USA-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Building+cloud-native+platforms+that+scale;Turning+ambiguous+problems+into+clean+code;Currently+shipping+an+AI+nutrition+app+%F0%9F%A5%97;5%2B+years+of+full+stack+engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Building+cloud-native+platforms+that+scale;Turning+ambiguous+problems+into+clean+code;Currently+shipping+an+AI+nutrition+app+%F0%9F%A5%97;6%2B+years+of+full+stack+engineering" alt="Typing SVG" />
 
 </div>
 
@@ -104,7 +104,6 @@ Architecting platform-wide search over operational data from factories and power
 
 <img src="https://raw.githubusercontent.com/BitNeel/BitNeel/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<sub>⚠️ Snake animation needs a one-time GitHub Actions setup — see note below.</sub>
 
 </div>
 
