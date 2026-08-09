@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:239120&height=200&section=header&text=Aditya%20Poddar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20Cloud-Native%20%26%20AI-Powered%20Apps&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:239120&height=200&section=header&text=Aditya%20Poddar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20-%20Cloud%20Native%20and%20AI%20Powered%20Apps&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/aditya-poddar-sdm"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:poddaraditya175@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -29,10 +29,10 @@ I bring **technical common sense** to the table — I care as much about maintai
 
 **[Manju Meals](https://github.com/BitNeel)** — AI-powered nutrition companion *(Aug 2025 – Present)*
 An app that learns your dietary preferences and restrictions to deliver personalized, adaptive meal suggestions.
-`Flutter` `FastAPI` `Groq` `Gemini 2.5 Flash` `Supabase`
+<br> Tech Stack - `Flutter` `FastAPI` `Groq` `Gemini 2.5 Flash` `Supabase`
 
 **AVEVA** — Software Engineer *(Sept 2025 – Present)*
-Architecting platform-wide search over operational data from factories and power plants — indexing millions of data streams and delivering sub-second search to thousands of users. Scaling .NET minimal APIs on Kubernetes with 99.99% uptime, and processing 1M+ ordered messages/day through Azure Service Bus.
+Architecting platform-wide search over **OT/ET/IT** data from factories and power plants — indexing millions of data streams and delivering sub-second search to thousands of users. Scaling .NET minimal APIs on Kubernetes with 99.99% uptime, and processing 1M+ ordered messages/day through Azure Service Bus.
 
 ---
 
@@ -46,16 +46,19 @@ Architecting platform-wide search over operational data from factories and power
 
 **Frameworks & Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,fastapi,flutter,nodejs" />
+<img src="https://skillicons.dev/icons?i=dotnet,react,fastapi,flutter,nodejs" />
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mssql,postgres,azure,supabase" />
+<img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="45">
+<img src="https://skillicons.dev/icons?i=postgres,supabase" />
+
 
 **Cloud, DevOps & AI**
 <br/>
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,azuredevops" />
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes" />
+
+<img src="https://img.shields.io/badge/OpenAPI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
 
@@ -85,19 +88,6 @@ Architecting platform-wide search over operational data from factories and power
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BitNeel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BitNeel&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitNeel&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🐍 Contribution Graph
@@ -111,7 +101,7 @@ Architecting platform-wide search over operational data from factories and power
 
 <div align="center">
 
-💬 **Let's talk cloud architecture, AI products, or the best way to convert Figma to pixel-perfect React.**
+💬 **Let's talk cloud architecture and AI products.**
 
 📫 poddaraditya175@gmail.com
 
